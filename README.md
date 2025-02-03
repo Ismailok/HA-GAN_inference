@@ -26,7 +26,7 @@ Téléchargez les poids des modèles nécessaires et placez-les dans le dossier 
 
 Exécutez le script d'inférence avec :
 ```sh
-python inference_script.py
+python inference.py
 ```
 Par défaut, le script charge une image test et génère une sortie correspondante.
 
