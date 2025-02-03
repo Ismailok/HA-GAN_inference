@@ -18,7 +18,7 @@ Ce dépôt contient un script Python pour l'inférence avec HA-GAN, un modèle d
 
 Téléchargez les poids des modèles nécessaires et placez-les dans le dossier `checkpoint/HA_GAN_run1/` :
 
-- [Generator]([https://example.com/G_iter80000.pth](https://drive.google.com/file/d/1orNvz7DLsCn5KWKjjVpEL4e5mO0akf6g/view))
+- [Generator]([[https://example.com/G_iter80000.pth](https://drive.google.com/file/d/1orNvz7DLsCn5KWKjjVpEL4e5mO0akf6g/view)](https://drive.google.com/file/d/1orNvz7DLsCn5KWKjjVpEL4e5mO0akf6g/view))
 - [Encoder]([https://example.com/E_iter80000.pth](https://drive.google.com/file/d/1orNvz7DLsCn5KWKjjVpEL4e5mO0akf6g/view))
 - [Sub-Encoder]([https://example.com/Sub_E_iter80000.pth](https://drive.google.com/file/d/1orNvz7DLsCn5KWKjjVpEL4e5mO0akf6g/view))
 
