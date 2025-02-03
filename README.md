@@ -1,5 +1,4 @@
-# HA-GAN Inference Script
-
+# HA-GAN Inference
 Ce dépôt contient un script Python pour l'inférence avec HA-GAN, un modèle de génération d'images médicales.
 
 ## Installation
