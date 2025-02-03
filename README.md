@@ -6,7 +6,7 @@ Ce dépôt contient un script Python pour l'inférence avec HA-GAN, un modèle d
 
 1. Clonez ce dépôt :
    ```sh
-   git clone https://github.com/votre-repo/HA-GAN-inference.git
+   git clone https://github.com/ismailok/HA-GAN-inference.git
    cd HA-GAN-inference
    ```
 2. Installez les dépendances nécessaires :
