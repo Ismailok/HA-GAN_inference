@@ -1,0 +1,6 @@
+PyTorch
+scikit-image
+nibabel
+nilearn
+tensorboardX
+SimpleITK
