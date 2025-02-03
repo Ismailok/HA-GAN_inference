@@ -18,10 +18,13 @@ Ce dépôt contient un script Python pour l'inférence avec HA-GAN, un modèle d
 
 Téléchargez les poids des modèles nécessaires et placez-les dans le dossier `checkpoint/HA_GAN_run1/` :
 
-- [Generator]([[https://example.com/G_iter80000.pth](https://drive.google.com/file/d/1orNvz7DLsCn5KWKjjVpEL4e5mO0akf6g/view)](https://drive.google.com/file/d/1orNvz7DLsCn5KWKjjVpEL4e5mO0akf6g/view))
-- [Encoder]([https://example.com/E_iter80000.pth](https://drive.google.com/file/d/1orNvz7DLsCn5KWKjjVpEL4e5mO0akf6g/view))
-- [Sub-Encoder]([https://example.com/Sub_E_iter80000.pth](https://drive.google.com/file/d/1orNvz7DLsCn5KWKjjVpEL4e5mO0akf6g/view))
-<td align="center"><a href="https://drive.google.com/file/d/10AcfBPB_Tnjgy9bSj1qcZTW1s7qTIWRM/view?usp=sharing">Download</a></td>
+- <td align="center"><a href="https://drive.google.com/file/d/10AcfBPB_Tnjgy9bSj1qcZTW1s7qTIWRM/view?usp=sharing">Générateur</a></td>
+- <td align="center"><a href="https://drive.google.com/file/d/10AcfBPB_Tnjgy9bSj1qcZTW1s7qTIWRM/view?usp=sharing">Encodeur</a></td>
+- <td align="center"><a href="https://drive.google.com/file/d/10AcfBPB_Tnjgy9bSj1qcZTW1s7qTIWRM/view?usp=sharing">Sub-Encodeur</a></td>
+- <td align="center"><a href="https://drive.google.com/file/d/10AcfBPB_Tnjgy9bSj1qcZTW1s7qTIWRM/view?usp=sharing">Discriminateur</a></td>
+
+
+
 ## Utilisation
 
 Exécutez le script d'inférence avec :
