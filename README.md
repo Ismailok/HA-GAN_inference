@@ -34,8 +34,6 @@ Par défaut, le script charge une image test et génère une sortie correspondan
 
 Voici un exemple de sortie générée par le modèle :
 
-![Exemple de résultat](https://example.com/result_image.png)
+![Exemple de résultat]([https://example.com/result_image.png](https://github.com/batmanlab/HA-GAN/blob/master/figures/sample_HA_GAN.png))
 
-## Contact
-Pour toute question, veuillez ouvrir une issue ou contacter `email@example.com`.
 
